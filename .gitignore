@@ -1,0 +1,34 @@
+#ctags
+tags
+
+
+# C extensions
+*.so
+
+## Python stuff
+
+# general
+.ipynb_checkpoints
+*.py[cod]
+pip-log.txt
+
+# Unit test / coverage reports
+.coverage
+.tox
+nosetests.xml
+
+# Translations
+*.mo
+
+# Mr Developer
+.mr.developer.cfg
+.project
+.pydevproject
+.Rproj.user
+
+#caches
+_*.gz
+_cache
+
+#vim stuff
+*.swp
